@@ -12,7 +12,7 @@ dist/
 # local state — never commit an index (it leaks entity names and usage)
 index.json
 *.tmp
-config.json
+/config.json
 .env
 
 # macOS
