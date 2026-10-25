@@ -137,6 +137,15 @@ python3 tools/bench.py --query "desk lamp" --cycles 3   # naive path vs haus
 milliseconds. Home Assistant answers in ~10 ms; an agent that has to discover,
 call and verify spends three model round-trips instead of one.
 
+## Support
+
+If `haus` saves you time, you can support its development:
+
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/mstipanov)
+- 💳 [PayPal](https://paypal.me/mstipanov)
+
+Every release note carries the same footer, generated from [`SUPPORT.md`](SUPPORT.md).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
