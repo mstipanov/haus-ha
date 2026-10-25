@@ -1,0 +1,19 @@
+# byte-compiled / cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# local state — never commit an index (it leaks entity names and usage)
+index.json
+*.tmp
+config.json
+.env
+
+# macOS
+.DS_Store
