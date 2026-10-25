@@ -36,7 +36,7 @@ pipx install haus-ha        # or: pip install --user haus-ha
 pipx install /path/to/haus
 ```
 
-Requires Python 3.9+ and nothing else (standard library only).
+Requires Python 3.10+ and nothing else (standard library only).
 
 ## Configure
 

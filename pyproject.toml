@@ -7,7 +7,7 @@ name = "haus-ha"
 version = "0.1.0"
 description = "Cache-first, usage-aware command line for Home Assistant — built for humans and AI agents"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Marko Stipanov" }]
 keywords = ["home-assistant", "cli", "smart-home", "llm", "agents", "iot"]
