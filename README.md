@@ -1,5 +1,7 @@
 # haus
 
+[![tests](https://github.com/mstipanov/haus-ha/actions/workflows/tests.yml/badge.svg)](https://github.com/mstipanov/haus-ha/actions/workflows/tests.yml)
+
 **A cache-first, usage-aware command line for Home Assistant — built for humans and AI agents.**
 
 Talk to your house by the names you actually use (`desk lamp`, `living room blinds`)

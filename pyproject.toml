@@ -26,7 +26,9 @@ dependencies = []
 haus = "haus:main"
 
 [project.urls]
-Homepage = "https://github.com/mstipanov/haus"
+Homepage = "https://github.com/mstipanov/haus-ha"
+Repository = "https://github.com/mstipanov/haus-ha"
+Issues = "https://github.com/mstipanov/haus-ha/issues"
 
 [tool.setuptools]
 py-modules = ["haus"]
