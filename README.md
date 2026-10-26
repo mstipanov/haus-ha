@@ -144,8 +144,6 @@ If `haus` saves you time, you can support its development:
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/mstipanov)
 - 💳 [PayPal](https://paypal.me/mstipanov)
 
-Every release note carries the same footer, generated from [`SUPPORT.md`](SUPPORT.md).
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
